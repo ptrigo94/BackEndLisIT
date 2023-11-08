@@ -46,7 +46,7 @@ namespace AyudasSociales.Controllers
         }
 
         // PUT: api/AyudasUsuarios/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+         
         [HttpPut("{id}"), Authorize(Roles = "Admin")]
         public async Task<IActionResult> PutAyudaUsuario(int id, AyudaUsuario ayudaUsuario)
         {
@@ -77,7 +77,7 @@ namespace AyudasSociales.Controllers
         }
 
         // POST: api/AyudasUsuarios
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+         
         [HttpPost, Authorize(Roles = "Admin")]
         public async Task<ActionResult<AyudaUsuarioDTO>> PostAyudaUsuario([FromBody] AyudaUsuarioDTO ayudaUsuario)
         {

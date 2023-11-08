@@ -74,7 +74,7 @@ namespace AyudasSociales.Controllers
         }
 
         // POST: api/AyudaComunas
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+         
         [HttpPost, Authorize(Roles = "Admin")]
         public async Task<ActionResult<AyudaComunaDTO>> PostAyudaComuna([FromBody] AyudaComunaDTO ayudaComuna)
         {

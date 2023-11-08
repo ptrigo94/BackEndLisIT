@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5UGoGE8ZSChS1BspUpo9bJkFsIj6OcR9g0EGok73pz3c4ewotD/Wh1lGR3z2lNdKbE+Pmkkiojh/VlLakH/cJg==",
+  "dgSpecHash": "nC7PYMcvDUgfXmn9nlhT2Ye2YJj37aBqKAmkzEzKbaVjILskj455A4r56TX76r7VFKhp4oBmLwmiYzUA1WLuHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pablo\\OneDrive\\Escritorio\\TEST LISIT\\Test\\Autorizacion\\AyudasSociales.csproj",
+  "projectFilePath": "E:\\Pruebas\\BackEndLisIT\\Autorizacion\\AyudasSociales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pablo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Pablo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

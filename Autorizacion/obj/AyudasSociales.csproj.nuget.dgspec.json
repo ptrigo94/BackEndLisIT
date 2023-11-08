@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pablo\\OneDrive\\Escritorio\\TEST LISIT\\Test\\Autorizacion\\AyudasSociales.csproj": {}
+    "E:\\Pruebas\\BackEndLisIT\\Autorizacion\\AyudasSociales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pablo\\OneDrive\\Escritorio\\TEST LISIT\\Test\\Autorizacion\\AyudasSociales.csproj": {
+    "E:\\Pruebas\\BackEndLisIT\\Autorizacion\\AyudasSociales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pablo\\OneDrive\\Escritorio\\TEST LISIT\\Test\\Autorizacion\\AyudasSociales.csproj",
+        "projectUniqueName": "E:\\Pruebas\\BackEndLisIT\\Autorizacion\\AyudasSociales.csproj",
         "projectName": "AyudasSociales",
-        "projectPath": "C:\\Users\\Pablo\\OneDrive\\Escritorio\\TEST LISIT\\Test\\Autorizacion\\AyudasSociales.csproj",
+        "projectPath": "E:\\Pruebas\\BackEndLisIT\\Autorizacion\\AyudasSociales.csproj",
         "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pablo\\OneDrive\\Escritorio\\TEST LISIT\\Test\\Autorizacion\\obj\\",
+        "outputPath": "E:\\Pruebas\\BackEndLisIT\\Autorizacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

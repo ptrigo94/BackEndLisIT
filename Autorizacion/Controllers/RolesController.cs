@@ -78,7 +78,7 @@ namespace Autorizacion.Controllers
 
         }
 
-        [HttpPost, Authorize("Admin"), Authorize(Roles = "Admin")]
+        [HttpPost] 
         public async Task<IActionResult> CreateRole([FromBody] Role rol)
         {
             if (rol == null)
